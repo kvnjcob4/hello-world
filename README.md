@@ -1,2 +1,2 @@
 # hello-world
-First git program
+This is my first time using git.
